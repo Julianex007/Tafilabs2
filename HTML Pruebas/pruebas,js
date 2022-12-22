@@ -1,0 +1,2 @@
+const penal=[loco,pierna,pelota];
+console.log(penal);

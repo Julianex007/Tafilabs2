@@ -1,0 +1,49 @@
+h1 {
+    font-style: italic; color: rgb(17, 167, 62);
+    text-align: center;
+}
+
+h2 {
+    font-style: bold; color: rgb(17, 167, 62);
+    font-family: 'Libre Baskerville', serif;
+    font-style: bold;
+}       
+
+h3 {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic; 
+    font-size: 15px;
+}
+
+div p {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+}
+
+.brand-img{
+    height: 33%;
+    align-items: center;
+    transition-property: initial;
+}
+.somos  {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+ .footer
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 85%;
+    text-align: center;
+    text-shadow: 10px;
+}
+
+.productos
+{
+    padding-block: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 3%;
+    background-color: rgb(213, 238, 230);    
+    border-radius: 10px
+}
