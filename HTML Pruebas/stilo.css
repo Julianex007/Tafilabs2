@@ -1,3 +1,17 @@
+header{
+    inline-size: auto;
+    text-align: right;
+    text-shadow: 5px;
+    padding: auto;
+    
+}
+.brand-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
 h1 {
     font-style: italic; color: rgb(17, 167, 62);
     text-align: center;
@@ -20,22 +34,27 @@ div p {
     font-size: 20px;
 }
 
-.brand-img{
-    height: 33%;
-    align-items: center;
-    transition-property: initial;
-}
+
 .somos  {
     font-family: 'Source Serif Pro', serif;
     font-size: 18px;
     font-weight: 700;
+    margin: 3%;
+    padding-block: 1%;
 }
- .footer
+aside{
+    padding: 2% 3% 2% 3%;
+    margin: 3% 10%;
+    background-color: rgb(88 160 199 / 44%);
+    border-radius: 10px; 
+}
+ footer
 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 85%;
     text-align: center;
     text-shadow: 10px;
+    
 }
 
 .productos
@@ -44,8 +63,8 @@ div p {
     padding-left: 5%;
     padding-right: 5%;
     margin: 3%;
-    background-color: rgb(213, 238, 230);    
-    border-radius: 10px
+    background-color: rgb(167 241 217);    
+    border-radius: 60px
 }
 .pruebas{
     padding-block: 3%;
@@ -54,4 +73,9 @@ div p {
     margin: 3%;
     background-color: rgb(213, 238, 230);    
     border-radius: 10px
+}
+
+.video{
+    display: inline;
+    width: 50%;
 }

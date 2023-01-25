@@ -20,3 +20,5 @@ Bird.prototype = {
 
 let penguin = new Bird("Happy");
 console.log(penguin);
+
+futbol.slice(1,4);
