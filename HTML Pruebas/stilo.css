@@ -5,6 +5,12 @@ header{
     padding: auto;
     
 }
+
+nav {
+    display: flex;
+    padding-bottom: 25px;
+  }
+
 .brand-img{
     display: block;
     margin-left: auto;
